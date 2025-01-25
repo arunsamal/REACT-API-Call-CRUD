@@ -1,0 +1,42 @@
+table {
+    height: 120px;
+    width: 50%;
+    margin-left: 25%;
+    padding-bottom: 10px;
+    overflow-y: auto;
+}
+
+thead {
+    background-color: grey;
+}
+
+.inputform {
+    width: 50%;
+    margin-left: 25%;
+    padding-bottom: 10px;
+    overflow-y: auto;
+}
+
+#submitButton {
+    background-color: black;
+    color: white;
+}
+
+.deleteButton {
+    background-color: red;
+    color: white;
+}
+
+.updateButton {
+    background-color: blue;
+    color: white;
+}
+
+.createButton {
+    background-color: green;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+}
