@@ -39,7 +39,7 @@ export default function Home() {
         }
     };
 
-    // Update an existing user
+    // Update an existing student
     const updateStudent = async (stdData) => {
         console.log("Update API call" + JSON.stringify(stdData));
         try {
